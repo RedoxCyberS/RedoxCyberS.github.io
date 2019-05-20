@@ -1,7 +1,7 @@
 <div align="center">
 
 # [Vex Hugo](https://themefisher.com/hugo-themes/)
-<img src="https://user-images.githubusercontent.com/37659754/54080628-86bb1c00-431e-11e9-9094-b69cff97a5e9.gif" alt="screenshot" width="100%">
+<img src="https://www.google.com/search?q=ibanez+rg+550+dy&source=lnms&tbm=isch&sa=X&ved=0ahUKEwikwYmL2qniAhWQzKQKHWZuDEwQ_AUIDigB&biw=1920&bih=889#imgrc=YlPbiRzlasDO_M:" alt="screenshot" width="100%">
 
 </div>
 
